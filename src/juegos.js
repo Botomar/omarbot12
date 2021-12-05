@@ -13,7 +13,7 @@ Prueba tu suerte en el medidor de fan de cuties 😱
 
 _*En futuras versiones colocare mas juegos :)*_
      
-_*by shanduy*_
+_*🇵🇪Loco Humilde y Real🇵🇪*_
 `
 
 }
