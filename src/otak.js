@@ -11,7 +11,7 @@ La toca 7w7
 
 _*Ojito escribe tal como esta*_
 
-ву ѕнαη∂υу`
+*🇵🇪Loco Humilde y Real🇵🇪*`
 
 }
 
