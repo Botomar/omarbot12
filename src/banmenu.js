@@ -5,7 +5,7 @@ const banmenu = (prefix, pushname) => {
 
 Este comando impide que el baneado use el bot
 
-══════════════
+╰┅✺⃘⃙⃭͜͡𐝠⃙࿆⁃⃭⊱⃙༘ࣼ༅⃭═⃙⃭❅⃙⃭•⁃⃟ࣼ🎋⃟ࣼ⁃•⃙⃬❅⃙⃬═༘⃬ࣼ༅⃙⃬⃗⁃⃬𐝠⃙࿆⃬✺⃘⃖͜͡┅⃬╯͑͗͗͑͗͑͗͑͗͑͗͑͗͑͗͑͗͑͗͑
 
 *PARA BANEAR*
 
@@ -13,7 +13,7 @@ Este comando impide que el baneado use el bot
 
 Ejemplo: *ban @xxxxxxx
 
-══════════════
+╰┅✺⃘⃙⃭͜͡𐝠⃙࿆⁃⃭⊱⃙༘ࣼ༅⃭═⃙⃭❅⃙⃭•⁃⃟ࣼ🎋⃟ࣼ⁃•⃙⃬❅⃙⃬═༘⃬ࣼ༅⃙⃬⃗⁃⃬𐝠⃙࿆⃬✺⃘⃖͜͡┅⃬╯͑͗͗͑͗͑͗͑͗͑͗͑͗͑͗͑͗͑͗͑
 
 *PARA DESBANEAR*
 
@@ -21,9 +21,11 @@ Ejemplo: *ban @xxxxxxx
 
 Ejemplo: *desban @xxxxxxx
 
-══════════════
+╰┅✺⃘⃙⃭͜͡𐝠⃙࿆⁃⃭⊱⃙༘ࣼ༅⃭═⃙⃭❅⃙⃭•⁃⃟ࣼ🎋⃟ࣼ⁃•⃙⃬❅⃙⃬═༘⃬ࣼ༅⃙⃬⃗⁃⃬𐝠⃙࿆⃬✺⃘⃖͜͡┅⃬╯͑͗͗͑͗͑͗͑͗͑͗͑͗͑͗͑͗͑͗͑
 
-_*by shanduy*_
+_*🇵🇪Loco Humilde y Real🇵🇪*_
+
+*🤹OMAR-BOT🤹*
 
 `
 
